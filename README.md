@@ -11,4 +11,4 @@ React, Next.js, TypeScript, TailwindCSS
 
 ## Contact
 Email: amirmokhtari20223@gmail.com 
-LinkedIn: amirjaxen 
+LinkedIn:https://www.linkedin.com/in/amir-jaxen
