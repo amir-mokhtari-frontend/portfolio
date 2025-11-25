@@ -12,3 +12,5 @@ React, Next.js, TypeScript, TailwindCSS
 ## Contact
 Email: YOUR_EMAIL
 LinkedIn: YOUR_LINKEDIN
+#your email 
+Amirmokhtari20223@gmail.com
